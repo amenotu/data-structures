@@ -82,7 +82,6 @@ Graph.prototype.removeEdge = function(fromNode, toNode){
 			this.nodeStorage[toNode].splice(index, 1);
 		}
 	}
-
 };
 
 // ------------------------
