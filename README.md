@@ -3,19 +3,31 @@ This is a project I completed as a student at [Hack Reactor Remote Beta](http://
 
 This is an exercise on implementing data structures and instantiation patterns in Javascript, which include the following:
 • Stack (in functional, functional-shared, prototypal, and pseudo-classical instantiation patterns)
-• Queue (in functional, functional-shared, prototypal, and pseudo-classical instantiation patterns) \n
+
+• Queue (in functional, functional-shared, prototypal, and pseudo-classical instantiation patterns)
+
 • Graph
+
 • Singly Linked List
+
 • Hash Table
+
 • Set
+
 • Tree
+
 • Binary Search Tree
 
 #Requirements
+
 • jQuery
+
 • RequireJS
+
 • Mocha
+
 • Underscore.js
+
 • Chai
 
 #Testing
